@@ -1,0 +1,6 @@
+export const clr_botticelli = '#DDE7EE'
+export const clr_woodsmoke = '#171A1C'
+export const clr_catskill_white = '#F0F4F8'
+export const clr_link_water = '#FBFCFE'
+export const clr_picton_blue = '#39bdf8'
+export const clr_onahau = '#C7EEFF'
